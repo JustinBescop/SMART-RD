@@ -1,6 +1,10 @@
 # SMART-RD
 Smart-rd offers the first risk based annotations in the railway domain
-This work was supported by the France 2030 Investment Plan operated by ADEME and takes part in the ECOTrain Project : https://www.youtube.com/watch?v=Do5gex75R_w&ab_channel=InstitutMines-Télécom(IMT)
+This work was supported by the France 2030 Investment Plan operated by ADEME and takes part in the ECOTrain Project : 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Do5gex75R_w/0.jpg)](https://www.youtube.com/watch?v=Do5gex75R_w)
+
+
 
 # Abstract
 While the automotive industry has made significant contributions to vision-based dynamic risk assessment,
