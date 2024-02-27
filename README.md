@@ -13,6 +13,15 @@ of security-based annotation for the existing datasets. This paper proposes the 
 
 # Overview of the metadata
 The meta data are composed of 3 annotations for each Railsem19 images on the 4 risk modalities and the general risk.
+Separated in 3 parts for each annotators, each row contains :
+<ul>
+  <li>Name of the Railsem19 Dataset image</li>
+  <li>General risk level</li>
+  <li>Weather risk level</li>
+  <li>Light risk level</li>
+  <li>Users risk level</li>
+  <li>Context risk level</li>
+</ul>
 
 
 
